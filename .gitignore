@@ -1,0 +1,14 @@
+node_modules/
+models/*.pt
+selftest_audio/
+__pycache__/
+*.ears.json
+*.compare.json
+*.compare.png
+ears_taste.json
+demo/app.wav
+demo/app.ears.png
+demo/engine_fixed.*
+demo/engine_v2.wav
+demo/engine_v2.ears.png
+!demo/engine_fixed.js
